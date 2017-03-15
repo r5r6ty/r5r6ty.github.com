@@ -1,11 +1,8 @@
-<center>
 # r5r6ty.blog
 *HomePage*
-</center>
 ```javascript
 PlayGames!
 ```
-
 * [WebGLPlayer](WebGLPlayer/WebGLPlayer/main.html)
 * [SinglongCrouch](SinglongCrouch/SinglongCrouch/main.html)
 
