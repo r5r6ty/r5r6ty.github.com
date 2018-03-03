@@ -5,8 +5,8 @@ PlayGames!
 ```
 * [WebGLPlayer](WebGLPlayer/WebGLPlayer/main.html) **(WebGL test)**
 * [SinglongCrouch](SinglongCrouch/SinglongCrouch/main.html) **(FTG game 1)**
-* [Lproject2](Lproject2/Lproject2/main.html) **(FTG game 2)** **(Push J,K button)**
-* [2DGame](2DGame/2DGame/main.html) **(STG game 3)** **(Push W,S,A,D button and mouse, and must create a craft)**
+* [Lproject2](Lproject2/Lproject2/main.html) **(FTG game 2)** **(Press J,K button)**
+* [2DGame](2DGame/2DGame/main.html) **(STG game 3)** **(Press W,S,A,D button, mouse, and must create a craft)**
 
 ---
 
