@@ -3,8 +3,9 @@
 ```javascript
 PlayGames!
 ```
-* [WebGLPlayer](WebGLPlayer/WebGLPlayer/main.html)
-* [SinglongCrouch](SinglongCrouch/SinglongCrouch/main.html)
+* [WebGLPlayer](WebGLPlayer/WebGLPlayer/main.html) **(WebGL test)**
+* [SinglongCrouch](SinglongCrouch/SinglongCrouch/main.html) **(FTG game 1)**
+* [Lproject2](Lproject2/Lproject2/lanuch.html) **(FTG game 2)**
 
 ---
 
