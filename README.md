@@ -5,7 +5,7 @@ PlayGames!
 ```
 * [WebGLPlayer](WebGLPlayer/WebGLPlayer/main.html) **(WebGL test)**
 * [SinglongCrouch](SinglongCrouch/SinglongCrouch/main.html) **(FTG game 1)**
-* [Lproject2](Lproject2/Lproject2/lanuch.html) **(FTG game 2)**
+* [Lproject2](Lproject2/Lproject2/main.html) **(FTG game 2)**
 
 ---
 
