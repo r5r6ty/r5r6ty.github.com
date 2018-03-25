@@ -1,4 +1,3 @@
-# r5r6ty.blog
 *HomePage*
 ```javascript
 PlayGames!
