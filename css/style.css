@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* border: 1px #263238 solid; */
 }
 
 body {
@@ -43,7 +42,6 @@ body > section {
     margin: 0.5rem;
     padding: 0.5rem;
     background-color: #4DD0E1;
-    /* border: 1px #263238 solid; */
     border-radius: 0.2rem;
 }
 
